@@ -69,3 +69,14 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+
+.tBlock {
+  border-width: 15px;
+  border-color: green;
+  border-radius: 4px;
+}
+
+container {
+  border-
+}
